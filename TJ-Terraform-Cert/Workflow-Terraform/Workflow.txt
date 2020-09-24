@@ -1,0 +1,23 @@
+Individual
+Team
+Terraform Cloud
+
+
+- Individual
+
+write - Create the terraform files
+Plan - 
+create - 
+
+
+- Team
+
+Write - Checkout the latest code
+Plan - Run Terraform Plan and raise a PR
+Create - Create the resources - Merge and create
+
+- Terraform Cloud
+
+Write - Use Terraform Cloud as your development environment
+Plan - When a PR is raised, Terraform Plan is Run
+Create - Before merging a second plan is run before approval to create
